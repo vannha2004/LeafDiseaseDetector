@@ -314,9 +314,10 @@ MIT License - Xem file LICENSE để chi tiết
 
 ## 📧 Liên Hệ
 
-- **Email**: support@leafdetect.com
+- **Email**: nha011246892@gmail.com
 - **Issues**: Báo cáo lỗi tại GitHub Issues
 
 ---
 
 **Cảm ơn bạn đã sử dụng LeafDetect! 🌿**
+
